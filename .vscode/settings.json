@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stddef.h": "c",
+        "cstdio": "c",
+        "chrono": "c",
+        "queue": "c",
+        "pcb.h": "c",
+        "mem-mgmt.h": "c"
+    }
+}
